@@ -32,7 +32,7 @@ multiformats: Python implementation of `multiformat protocols <https://multiform
 
 Multiformats is a compliant implementation of `multiformat protocols <https://multiformats.io/>`_:
 
-This is a temporary fork of the original project to be used until the original project incorporates a bug fix to work with newer versions of the 'typing_extensions' dependency.
+This is a temporary fork of the original project to be used until the original project incorporates a bug fix to work with newer versions of the 'typing_extensions' dependency. Python versions 3.11 & 3.12 are not tested with this fork.
 
 Bug: https://github.com/hashberg-io/typing-validation/issues/1
 
